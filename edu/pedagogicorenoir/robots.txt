@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campus.pedagogicorenoir.jedu.pe/sitemap.xml
