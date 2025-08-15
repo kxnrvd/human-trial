@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aulaseeaile.upnvirtual.edu.mx/sitemap.xml
